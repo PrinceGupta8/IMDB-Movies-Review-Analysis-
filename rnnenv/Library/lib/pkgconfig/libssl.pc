@@ -1,0 +1,11 @@
+prefix=D:/DA/Data Science and Artificial Intelligence/5- Machine Learning/56-End to end deep learning project with RNN/Project/rnnenv/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL-libssl
+Description: Secure Sockets Layer and cryptography libraries
+Libs: -L"${libdir}" -llibssl
+Requires: libcrypto
+Cflags: -I"${includedir}"
+Version: 3.0.15 
