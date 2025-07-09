@@ -3,17 +3,6 @@
 
 A deep learning-based sentiment analysis system that classifies IMDB movie reviews as **positive** or **negative**, built using a Recurrent Neural Network (RNN) and deployed via a **Streamlit** web application.
 
----
-
-## 🚀 Demo
-
-🔗 **Live Demo (Optional)**: *Add HuggingFace/Streamlit Cloud link if deployed*
-
-📷 **Screenshot**  
-<img src="app_screenshot.png" alt="App UI" width="700"/>
-
----
-
 ## 📌 Key Features
 
 - ✅ IMDB review sentiment classification (Positive / Negative)
