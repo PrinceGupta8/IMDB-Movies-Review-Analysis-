@@ -124,15 +124,3 @@ Contributions, ideas, and feedback are welcome! Feel free to open an issue or su
 🔗 [GitHub](https://github.com/PrinceGupta8)
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Show Your Support
-
-If you find this project useful, please consider giving it a ⭐ on GitHub!
-
-```
